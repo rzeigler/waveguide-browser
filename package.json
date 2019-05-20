@@ -1,0 +1,28 @@
+{
+  "name": "waveguide-browser",
+  "version": "0.0.1",
+  "description": "A set of packages for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rzeigler/waveguide-browser.git"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "typescript",
+    "effect"
+  ],
+  "author": "Ryan Zeigler",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rzeigler/waveguide-browser/issues"
+  },
+  "homepage": "https://github.com/rzeigler/waveguide-browser#readme",
+  "devDependencies": {
+    "lerna": "^3.14.1"
+  }
+}
