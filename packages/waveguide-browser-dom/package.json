@@ -1,0 +1,32 @@
+{
+  "name": "waveguide-browser-dom",
+  "version": "0.0.0",
+  "description": "Bindings for the DOM in waveguide's IO",
+  "keywords": [
+    "functional",
+    "programming",
+    "typescript",
+    "effect"
+  ],
+  "author": "Ryan Zeigler <zeiglerr@gmail.com>",
+  "homepage": "https://github.com/rzeigler/waveguide-browser/tree/master/packages/waveguide-browser-dom#readme",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzeigler/waveguide-browser.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/rzeigler/waveguide-browser/issues"
+  }
+}

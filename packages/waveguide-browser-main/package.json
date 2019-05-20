@@ -1,0 +1,40 @@
+{
+  "name": "waveguide-browser-main",
+  "version": "0.0.0",
+  "description": "A main function for waveguide IOs",
+  "keywords": [
+    "function",
+    "programming",
+    "typescript",
+    "effect"
+  ],
+  "author": "Ryan Zeigler <zeiglerr@gmail.com>",
+  "homepage": "https://github.com/rzeigler/waveguide-browser/tree/master/packages/waveguide-browser-main#readme",
+  "license": "Apache-2.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzeigler/waveguide-browser.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/rzeigler/waveguide-browser/issues"
+  },
+  "devDependencies": {
+    "fp-ts": "^1.18.1",
+    "waveguide": "^0.4.2"
+  },
+  "peerDependencies": {
+    "fp-ts": "^1.18.1",
+    "waveguide": "^0.4.2"
+  }
+}
